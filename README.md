@@ -26,6 +26,9 @@ Packages/Libraries:
 4. urlencoded-parser
 
 # Process Flow Diagram:
+![PROCESS_EYANTRA](https://user-images.githubusercontent.com/58266816/119388222-9ba9dd00-bce7-11eb-8492-96684f40800e.PNG)
+
 
 
 # Data Flow Diagram
+![DFD_EYANTRA](https://user-images.githubusercontent.com/58266816/119388231-a06e9100-bce7-11eb-9243-8d7c1bbb35c3.PNG)
