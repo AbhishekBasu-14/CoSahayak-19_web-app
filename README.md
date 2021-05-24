@@ -4,7 +4,7 @@ Team members:\
 Abhishek Basu\
 Sridhar Bonda\
 Samyak Rokade\
-Serena Raju\
+Serena Raju
 
 # Title
 CoSahayak-19
