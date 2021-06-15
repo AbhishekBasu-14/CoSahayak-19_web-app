@@ -1,5 +1,5 @@
-# CoSahayak-19_eYHC-1475
-eyantra Hackathon 2021\
+# CoSahayak-19 web app
+
 Team members:\
 Abhishek Basu\
 Sridhar Bonda\
